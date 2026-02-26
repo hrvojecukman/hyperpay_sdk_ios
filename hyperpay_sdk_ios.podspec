@@ -17,6 +17,6 @@ Includes OPPWAMobile and ipworks3ds_sdk_deploy (3DS2) frameworks.
 
   s.vendored_frameworks = [
     'OPPWAMobile.xcframework',
-    'ipworks3ds_sdk_deploy_9373.xcframework'
+    'ipworks3ds_sdk.xcframework'
   ]
 end
