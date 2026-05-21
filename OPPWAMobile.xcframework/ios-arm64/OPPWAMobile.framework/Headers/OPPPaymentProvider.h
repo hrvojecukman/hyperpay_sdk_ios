@@ -1,4 +1,4 @@
-//  © Copyright ACI Worldwide, Inc. 2018, 2025
+//  © Copyright ACI Worldwide, Inc. 2018, 2026
 
 @import Foundation;
 @import PassKit;
@@ -12,6 +12,8 @@
 @class OPPBrandInfo;
 @class OPPInstallmentPlanParams;
 @class OPPInstallmentPlanResponse;
+@class OPPPollingParams;
+@class OPPPollingStatus;
 
 /// An enumeration for the various provider modes.
 typedef NS_ENUM(NSInteger, OPPProviderMode) {
@@ -224,10 +226,14 @@ NS_ASSUME_NONNULL_BEGIN
              completionHandler:(void (^)(OPPTransaction * _Nonnull transaction,
                                          NSError * _Nullable error))completionHandler;
 
-/// :nodoc:
 - (void)getVisaInstallmentPlans:(nonnull OPPInstallmentPlanParams *)planParams
               completionHandler:(void (^)(OPPInstallmentPlanResponse * _Nullable response,
                                           NSError * _Nullable error))completionHandler;
+
+/// :nodoc:
+- (void)getPollingData:(nonnull OPPPollingParams *)params
+     completionHandler:(void (^)(OPPPollingStatus * _Nullable response,
+                                 NSError * _Nullable error))completionHandler;
 
 @end
 NS_ASSUME_NONNULL_END

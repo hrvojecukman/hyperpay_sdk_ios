@@ -18,6 +18,14 @@
 "LABEL_SWEDISH" = "švedščina";
 "LABEL_FINNISH" = "finščina";
 "LABEL_STC_PAY_SELECT_PAYMENT_METHOD" = "Izberi želeni način plačila:";
+"LABEL_FULL_AMOUNT" = "CELOTEN ZNESEK";
+"LABEL_PROCESSING_FEE" = "Pristojbina za obdelavo:";
+"LABEL_MONTHLY_RATE" = "Mesečna cena:";
+"LABEL_WEEKLY_RATE" = "Tedenska cena:";
+"LABEL_MONTHS" = "MESECEV";
+"LABEL_WEEKS" = "TEDNI";
+"LABEL_MONTH" = "mesec";
+"LABEL_WEEK" = "teden";
 
 /// Messages
 "MESSAGE_PLEASE_WAIT" = "Prosimo, počakaj";
@@ -32,6 +40,7 @@
 "BUTTON_TITLE_CANCEL" = "Prekliči";
 "BUTTON_TITLE_BACK" = "Spremeni";
 "BUTTON_TITLE_DONE" = "Končano";
+"BUTTON_TITLE_CONFIRM" = "Potrdi";
 
 /// Text field label names
 "FIELD_LABEL_CARD_HOLDER_NAME" = "Ime imetnika kartice";
@@ -130,8 +139,16 @@
 "ACCESSIBILITY_CANCEL_CHECKOUT" = "Prekliči blagajno";
 "ACCESSIBILITY_PAY_WITH_STORED_PAYMENT_METHOD" = "Plačajte s shranjenim plačilnim sredstvom";
 "ACCESSIBILITY_PAY_WITH" = "Plačajte z";
+"ACCESSIBILITY_INSTALLMENT_PLAN" = "Obročni načrt";
+"ACCESSIBILITY_INSTALLMENT_ENABLED_BY_VISA" = "Obročno plačevanje z Viso";
 
 /// Card Scanning
 "ALERT_TITLE_CARD_SCANNING_FAILED" = "Skeniranje kartice ni uspelo";
 "LABEL_CARD_SCAN_HOLD_HERE" = "Držite kartico tukaj.\in samodejno bo skenirala";
 "BUTTON_TITLE_OK" = "v redu";
+
+/// PayTo Payment Method
+"FIELD_LABEL_BSB_CODE" = "BSB";
+"FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
+"FIELD_ERROR_BSB_CODE_INVALID" = "Neveljaven BSB";
+"LABEL_PAYTO_SELECT_PAYID" = "Izberite PayID med naslednjimi možnostmi:";

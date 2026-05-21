@@ -18,6 +18,14 @@
 "LABEL_SWEDISH" = "Švédština";
 "LABEL_FINNISH" = "Finština";
 "LABEL_STC_PAY_SELECT_PAYMENT_METHOD" = "Prosím, vyberte si preferovaný způsob placení:";
+"LABEL_FULL_AMOUNT" = "PLNÁ ČÁSTKA";
+"LABEL_PROCESSING_FEE" = "Poplatek za zpracování:";
+"LABEL_MONTHLY_RATE" = "Měsíční sazba:";
+"LABEL_WEEKLY_RATE" = "Týdenní sazba:";
+"LABEL_MONTHS" = "MĚSÍCE";
+"LABEL_WEEKS" = "TÝDNY";
+"LABEL_MONTH" = "měsíc";
+"LABEL_WEEK" = "týden";
 
 /// Messages
 "MESSAGE_PLEASE_WAIT" = "Čekejte, prosím";
@@ -32,6 +40,7 @@
 "BUTTON_TITLE_CANCEL" = "Zrušit";
 "BUTTON_TITLE_BACK" = "Změnit";
 "BUTTON_TITLE_DONE" = "Hotovo";
+"BUTTON_TITLE_CONFIRM" = "Potvrdit";
 
 /// Text field label names
 "FIELD_LABEL_CARD_HOLDER_NAME" = "Jméno držitele karty";
@@ -130,8 +139,16 @@
 "ACCESSIBILITY_CANCEL_CHECKOUT" = "Zrušit pokladnu";
 "ACCESSIBILITY_PAY_WITH_STORED_PAYMENT_METHOD" = "Plaťte uloženou platební metodou";
 "ACCESSIBILITY_PAY_WITH" = "Platit";
+"ACCESSIBILITY_INSTALLMENT_PLAN" = "Splátkový plán";
+"ACCESSIBILITY_INSTALLMENT_ENABLED_BY_VISA" = "Splátkový kalendář umožněn kartou Visa";
 
 /// Card Scanning
 "ALERT_TITLE_CARD_SCANNING_FAILED" = "Skenování karty se nezdařilo";
 "LABEL_CARD_SCAN_HOLD_HERE" = "Zde podržte kartu.\a automaticky se naskenuje";
 "BUTTON_TITLE_OK" = "OK";
+
+/// PayTo Payment Method
+"FIELD_LABEL_BSB_CODE" = "BSB";
+"FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
+"FIELD_ERROR_BSB_CODE_INVALID" = "Neplatný BSB";
+"LABEL_PAYTO_SELECT_PAYID" = "Vyberte PayID z následujících možností:";

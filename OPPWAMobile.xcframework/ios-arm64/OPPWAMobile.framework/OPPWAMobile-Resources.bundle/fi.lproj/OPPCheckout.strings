@@ -18,6 +18,14 @@
 "LABEL_SWEDISH" = "Ruotsi";
 "LABEL_FINNISH" = "Suomi";
 "LABEL_STC_PAY_SELECT_PAYMENT_METHOD" = "Valitse haluamasi maksutapa:";
+"LABEL_FULL_AMOUNT" = "TÄYSI SUMMA";
+"LABEL_PROCESSING_FEE" = "Käsittelymaksu:";
+"LABEL_MONTHLY_RATE" = "Kuukausimaksu:";
+"LABEL_WEEKLY_RATE" = "Viikkohinta:";
+"LABEL_MONTHS" = "KUUKAUDIA";
+"LABEL_WEEKS" = "VIIKKOJA";
+"LABEL_MONTH" = "kuukausi";
+"LABEL_WEEK" = "viikko";
 
 /// Messages
 "MESSAGE_PLEASE_WAIT" = "Odota hetki";
@@ -32,6 +40,7 @@
 "BUTTON_TITLE_CANCEL" = "Peruuta";
 "BUTTON_TITLE_BACK" = "Muuta";
 "BUTTON_TITLE_DONE" = "Valmis";
+"BUTTON_TITLE_CONFIRM" = "Vahvistaa";
 
 /// Text field label names
 "FIELD_LABEL_CARD_HOLDER_NAME" = "Kortinhaltijan nimi";
@@ -137,8 +146,16 @@
 "ACCESSIBILITY_CANCEL_CHECKOUT" = "Peruuta kassa";
 "ACCESSIBILITY_PAY_WITH_STORED_PAYMENT_METHOD" = "Maksa tallennetulla maksutavalla";
 "ACCESSIBILITY_PAY_WITH" = "Maksaa";
+"ACCESSIBILITY_INSTALLMENT_PLAN" = "Osamaksusuunnitelma";
+"ACCESSIBILITY_INSTALLMENT_ENABLED_BY_VISA" = "Visa mahdollistaa osamaksun";
 
 /// Card Scanning
 "ALERT_TITLE_CARD_SCANNING_FAILED" = "Kortin skannaus epäonnistui";
 "LABEL_CARD_SCAN_HOLD_HERE" = "Pidä korttia tässä.\ja se skannaa automaattisesti";
 "BUTTON_TITLE_OK" = "OK";
+
+/// PayTo Payment Method
+"FIELD_LABEL_BSB_CODE" = "BSB";
+"FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
+"FIELD_ERROR_BSB_CODE_INVALID" = "Virheellinen BSB";
+"LABEL_PAYTO_SELECT_PAYID" = "Valitse PayID seuraavista vaihtoehdoista:";

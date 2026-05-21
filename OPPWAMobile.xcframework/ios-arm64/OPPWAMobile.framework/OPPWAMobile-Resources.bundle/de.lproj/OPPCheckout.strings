@@ -17,6 +17,14 @@
 "LABEL_TERMS_AND_CONDITIONS_AGREEMENT" = "Ich habe die allgemeinen Geschäftsbedingungen gelesen und stimme diesen zu";
 "LABEL_SWEDISH" = "Schwedisch";
 "LABEL_FINNISH" = "Finnisch";
+"LABEL_FULL_AMOUNT" = "VOLLER BETRAG";
+"LABEL_PROCESSING_FEE" = "Bearbeitungsgebühr:";
+"LABEL_MONTHLY_RATE" = "Monatsrate:";
+"LABEL_WEEKLY_RATE" = "Wochenpreis:";
+"LABEL_MONTHS" = "MONATE";
+"LABEL_WEEKS" = "WOCHEN";
+"LABEL_MONTH" = "Monat";
+"LABEL_WEEK" = "Woche";
 
 /// Messages
 "MESSAGE_PLEASE_WAIT" = "Bitte Warten";
@@ -31,6 +39,7 @@
 "BUTTON_TITLE_CANCEL" = "Abbrechen";
 "BUTTON_TITLE_BACK" = "Ändern";
 "BUTTON_TITLE_DONE" = "Fertig";
+"BUTTON_TITLE_CONFIRM" = "Bestätigen";
 
 /// Text field label names
 "FIELD_LABEL_CARD_HOLDER_NAME" = "Karteninhaber";
@@ -124,8 +133,16 @@
 "ACCESSIBILITY_CANCEL_CHECKOUT" = "Kasse abbrechen";
 "ACCESSIBILITY_PAY_WITH_STORED_PAYMENT_METHOD" = "Mit hinterlegter Zahlungsmethode bezahlen";
 "ACCESSIBILITY_PAY_WITH" = "Bezahlen mit";
+"ACCESSIBILITY_INSTALLMENT_PLAN" = "Ratenzahlungsplan";
+"ACCESSIBILITY_INSTALLMENT_ENABLED_BY_VISA" = "Ratenzahlung mit Visa möglich";
 
 /// Card Scanning
 "ALERT_TITLE_CARD_SCANNING_FAILED" = "Kartenscan fehlgeschlagen";
 "LABEL_CARD_SCAN_HOLD_HERE" = "Karte hier halten.\und Es wird automatisch gescannt";
 "BUTTON_TITLE_OK" = "OK";
+
+/// PayTo Payment Method
+"FIELD_LABEL_BSB_CODE" = "BSB";
+"FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
+"FIELD_ERROR_BSB_CODE_INVALID" = "Ungültiger BSB";
+"LABEL_PAYTO_SELECT_PAYID" = "Bitte wählen Sie die PayID aus den folgenden Optionen:";

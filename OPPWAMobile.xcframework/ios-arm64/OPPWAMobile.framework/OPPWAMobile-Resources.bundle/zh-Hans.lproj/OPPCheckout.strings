@@ -17,6 +17,14 @@
 "LABEL_TERMS_AND_CONDITIONS_AGREEMENT" = "我已阅读并同意此条款和条件";
 "LABEL_SWEDISH" = "瑞典文";
 "LABEL_FINNISH" = "芬兰文";
+"LABEL_FULL_AMOUNT" = "全额";
+"LABEL_PROCESSING_FEE" = "加工费：";
+"LABEL_MONTHLY_RATE" = "月费：";
+"LABEL_WEEKLY_RATE" = "每周费率：";
+"LABEL_MONTHS" = "月数";
+"LABEL_WEEKS" = "几周";
+"LABEL_MONTH" = "月";
+"LABEL_WEEK" = "星期";
 
 /// Messages
 "MESSAGE_PLEASE_WAIT" = "请稍等";
@@ -31,6 +39,7 @@
 "BUTTON_TITLE_CANCEL" = "取消";
 "BUTTON_TITLE_BACK" = "更改";
 "BUTTON_TITLE_DONE" = "确定";
+"BUTTON_TITLE_CONFIRM" = "确认";
 
 /// Text field label names
 "FIELD_LABEL_CARD_HOLDER_NAME" = "持卡人姓名";
@@ -120,8 +129,16 @@
 "ACCESSIBILITY_CANCEL_CHECKOUT" = "取消结帐";
 "ACCESSIBILITY_PAY_WITH_STORED_PAYMENT_METHOD" = "使用存储的付款方式付款";
 "ACCESSIBILITY_PAY_WITH" = "使用。。。支付";
+"ACCESSIBILITY_INSTALLMENT_PLAN" = "分期付款";
+"ACCESSIBILITY_INSTALLMENT_ENABLED_BY_VISA" = "Visa 支持的分期付款";
 
 /// Card Scanning
 "ALERT_TITLE_CARD_SCANNING_FAILED" = "卡片扫描失败";
 "LABEL_CARD_SCAN_HOLD_HERE" = "将卡放在此处。\它会自动扫描";
 "BUTTON_TITLE_OK" = "好的";
+
+/// PayTo Payment Method
+"FIELD_LABEL_BSB_CODE" = "BSB";
+"FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
+"FIELD_ERROR_BSB_CODE_INVALID" = "无效的BSB";
+"LABEL_PAYTO_SELECT_PAYID" = "请从以下选项中选择PayID:";

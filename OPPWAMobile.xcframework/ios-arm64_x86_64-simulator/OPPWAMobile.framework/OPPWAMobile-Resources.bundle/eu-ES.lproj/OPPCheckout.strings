@@ -17,6 +17,14 @@
 "LABEL_TERMS_AND_CONDITIONS_AGREEMENT" = "Baldintzak eta betebeharrak irakurri eta onartzen ditut";
 "LABEL_SWEDISH" = "Suediera";
 "LABEL_FINNISH" = "Finlandiera";
+"LABEL_FULL_AMOUNT" = "ZENBATEKO OSOA";
+"LABEL_PROCESSING_FEE" = "Prozesatzeko kuota:";
+"LABEL_MONTHLY_RATE" = "Hileko tarifa:";
+"LABEL_WEEKLY_RATE" = "Asteko tarifa:";
+"LABEL_MONTHS" = "HILABETEAK";
+"LABEL_WEEKS" = "ASTEAK";
+"LABEL_MONTH" = "hilabetea";
+"LABEL_WEEK" = "astea";
 
 /// Messages
 "MESSAGE_PLEASE_WAIT" = "Itxaron, mesedez";
@@ -31,6 +39,7 @@
 "BUTTON_TITLE_CANCEL" = "Utzi";
 "BUTTON_TITLE_BACK" = "Aldatu";
 "BUTTON_TITLE_DONE" = "Done";
+"BUTTON_TITLE_CONFIRM" = "Berretsi";
 
 /// Text field label names
 "FIELD_LABEL_CARD_HOLDER_NAME" = "Txartela-titularraren izena";
@@ -120,8 +129,16 @@
 "ACCESSIBILITY_CANCEL_CHECKOUT" = "Utzi ordainketa egiteko";
 "ACCESSIBILITY_PAY_WITH_STORED_PAYMENT_METHOD" = "Ordaindu gordetako ordainketa-metodoarekin";
 "ACCESSIBILITY_PAY_WITH" = "Ordaindu";
+"ACCESSIBILITY_INSTALLMENT_PLAN" = "Zatikako Plana";
+"ACCESSIBILITY_INSTALLMENT_ENABLED_BY_VISA" = "Visak gaitutako zatikako ordainketa";
 
 /// Card Scanning
 "ALERT_TITLE_CARD_SCANNING_FAILED" = "Txartela eskaneatzea huts egin du";
 "LABEL_CARD_SCAN_HOLD_HERE" = "Eutsi txartela hemen.\eta automatikoki eskaneatuko da";
 "BUTTON_TITLE_OK" = "Ados";
+
+/// PayTo Payment Method
+"FIELD_LABEL_BSB_CODE" = "BSB";
+"FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
+"FIELD_ERROR_BSB_CODE_INVALID" = "BSB baliogabea";
+"LABEL_PAYTO_SELECT_PAYID" = "Aukeratu PayID hurrengo aukeren artean:";

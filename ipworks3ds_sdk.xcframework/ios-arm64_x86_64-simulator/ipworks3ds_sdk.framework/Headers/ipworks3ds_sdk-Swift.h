@@ -309,6 +309,13 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
+SWIFT_CLASS("_TtC14ipworks3ds_sdk14AcceptContains")
+@interface AcceptContains : NSObject
++ (void)widthOfStringDeviceInfo;
++ (void)autofillTypeCerts;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
 @class NSString;
 SWIFT_CLASS("_TtC14ipworks3ds_sdk31AuthenticationRequestParameters")
 @interface AuthenticationRequestParameters : NSObject
@@ -436,6 +443,17 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk19DirectoryServerInfo")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
+SWIFT_CLASS("_TtC14ipworks3ds_sdk21DispatchQueueSDKAppId")
+@interface DispatchQueueSDKAppId : NSObject <GetValueAsBooleanDispatchQoS>
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (void)descriptionVmsize:(NSData * _Null_unspecified)dataPacket;
+- (void)cFBundleVersionGetErrorDetails:(NSData * _Null_unspecified)dataPacket;
+- (void)urlSchemeCurrent:(int32_t)errorCode :(NSString * _Null_unspecified)description;
+- (void)secCertificateCreateWithDataChallengeEntryBoxTwoAutofill:(int32_t)logLevel :(NSString * _Null_unspecified)message :(NSString * _Null_unspecified)logType;
+- (void)headingTextFontSizeCheckTamperedByMobileProvisionHash:(NSData * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)certSubject :(NSString * _Null_unspecified)certIssuer :(NSString * _Null_unspecified)status :(int32_t * _Nonnull)accept;
+- (void)challengeEntryBoxTwoAutofillUIEdgeInsets:(NSString * _Null_unspecified)message;
+@end
+
 SWIFT_CLASS("_TtC14ipworks3ds_sdk12ErrorMessage")
 @interface ErrorMessage : NSObject
 - (NSString * _Nonnull)getTransactionID SWIFT_WARN_UNUSED_RESULT;
@@ -480,13 +498,6 @@ typedef SWIFT_ENUM(NSInteger, LabelType, open) {
   LabelTypeDATA_ENTRY_LABEL_2 = 11,
 };
 
-SWIFT_CLASS("_TtC14ipworks3ds_sdk23NavItemIndentationLevel")
-@interface NavItemIndentationLevel : NSObject
-+ (void)isMethodInOurSDKConfigIgnoreErro;
-+ (void)symbolTableCmdSecondInstructionPtr;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
 SWIFT_CLASS("_TtC14ipworks3ds_sdk12ProgressView")
 @interface ProgressView : NSObject
 - (void)show;
@@ -500,17 +511,6 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk18ProtocolErrorEvent")
 - (NSString * _Nonnull)getSDKTransactionID SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-@end
-
-SWIFT_CLASS("_TtC14ipworks3ds_sdk11RightMyRect")
-@interface RightMyRect : NSObject <CommonCryptoAppStoreReceiptExists>
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (void)setLabelCustomizationCurrentChallengeView:(NSData * _Null_unspecified)dataPacket;
-- (void)timeZoneGetAndValidateAppId:(NSData * _Null_unspecified)dataPacket;
-- (void)isFishhookedAutoresizingMask:(int32_t)errorCode :(NSString * _Null_unspecified)description;
-- (void)selectedIndexGetppidType:(int32_t)logLevel :(NSString * _Null_unspecified)message :(NSString * _Null_unspecified)logType;
-- (void)getSeverityParameters:(NSData * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)certSubject :(NSString * _Null_unspecified)certIssuer :(NSString * _Null_unspecified)status :(int32_t * _Nonnull)accept;
-- (void)secCertificateCreateWithDataCompletionEvent:(NSString * _Null_unspecified)message;
 @end
 
 SWIFT_CLASS("_TtC14ipworks3ds_sdk17RuntimeErrorEvent")
@@ -1001,6 +1001,13 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
+SWIFT_CLASS("_TtC14ipworks3ds_sdk14AcceptContains")
+@interface AcceptContains : NSObject
++ (void)widthOfStringDeviceInfo;
++ (void)autofillTypeCerts;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
 @class NSString;
 SWIFT_CLASS("_TtC14ipworks3ds_sdk31AuthenticationRequestParameters")
 @interface AuthenticationRequestParameters : NSObject
@@ -1128,6 +1135,17 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk19DirectoryServerInfo")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
+SWIFT_CLASS("_TtC14ipworks3ds_sdk21DispatchQueueSDKAppId")
+@interface DispatchQueueSDKAppId : NSObject <GetValueAsBooleanDispatchQoS>
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (void)descriptionVmsize:(NSData * _Null_unspecified)dataPacket;
+- (void)cFBundleVersionGetErrorDetails:(NSData * _Null_unspecified)dataPacket;
+- (void)urlSchemeCurrent:(int32_t)errorCode :(NSString * _Null_unspecified)description;
+- (void)secCertificateCreateWithDataChallengeEntryBoxTwoAutofill:(int32_t)logLevel :(NSString * _Null_unspecified)message :(NSString * _Null_unspecified)logType;
+- (void)headingTextFontSizeCheckTamperedByMobileProvisionHash:(NSData * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)certSubject :(NSString * _Null_unspecified)certIssuer :(NSString * _Null_unspecified)status :(int32_t * _Nonnull)accept;
+- (void)challengeEntryBoxTwoAutofillUIEdgeInsets:(NSString * _Null_unspecified)message;
+@end
+
 SWIFT_CLASS("_TtC14ipworks3ds_sdk12ErrorMessage")
 @interface ErrorMessage : NSObject
 - (NSString * _Nonnull)getTransactionID SWIFT_WARN_UNUSED_RESULT;
@@ -1172,13 +1190,6 @@ typedef SWIFT_ENUM(NSInteger, LabelType, open) {
   LabelTypeDATA_ENTRY_LABEL_2 = 11,
 };
 
-SWIFT_CLASS("_TtC14ipworks3ds_sdk23NavItemIndentationLevel")
-@interface NavItemIndentationLevel : NSObject
-+ (void)isMethodInOurSDKConfigIgnoreErro;
-+ (void)symbolTableCmdSecondInstructionPtr;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
 SWIFT_CLASS("_TtC14ipworks3ds_sdk12ProgressView")
 @interface ProgressView : NSObject
 - (void)show;
@@ -1192,17 +1203,6 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk18ProtocolErrorEvent")
 - (NSString * _Nonnull)getSDKTransactionID SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-@end
-
-SWIFT_CLASS("_TtC14ipworks3ds_sdk11RightMyRect")
-@interface RightMyRect : NSObject <CommonCryptoAppStoreReceiptExists>
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (void)setLabelCustomizationCurrentChallengeView:(NSData * _Null_unspecified)dataPacket;
-- (void)timeZoneGetAndValidateAppId:(NSData * _Null_unspecified)dataPacket;
-- (void)isFishhookedAutoresizingMask:(int32_t)errorCode :(NSString * _Null_unspecified)description;
-- (void)selectedIndexGetppidType:(int32_t)logLevel :(NSString * _Null_unspecified)message :(NSString * _Null_unspecified)logType;
-- (void)getSeverityParameters:(NSData * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)certSubject :(NSString * _Null_unspecified)certIssuer :(NSString * _Null_unspecified)status :(int32_t * _Nonnull)accept;
-- (void)secCertificateCreateWithDataCompletionEvent:(NSString * _Null_unspecified)message;
 @end
 
 SWIFT_CLASS("_TtC14ipworks3ds_sdk17RuntimeErrorEvent")

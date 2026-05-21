@@ -18,6 +18,14 @@
 "LABEL_SWEDISH" = "Svenska";
 "LABEL_FINNISH" = "Finska";
 "LABEL_STC_PAY_SELECT_PAYMENT_METHOD" = "Välj föredragen betalningsmetod:";
+"LABEL_FULL_AMOUNT" = "HELT BELOPP";
+"LABEL_PROCESSING_FEE" = "Behandlingsavgift:";
+"LABEL_MONTHLY_RATE" = "Månadspris:";
+"LABEL_WEEKLY_RATE" = "Veckopris:";
+"LABEL_MONTHS" = "MÅNADER";
+"LABEL_WEEKS" = "VECKOR";
+"LABEL_MONTH" = "månad";
+"LABEL_WEEK" = "vecka";
 
 /// Messages
 "MESSAGE_PLEASE_WAIT" = "Vänligen vänta";
@@ -32,6 +40,7 @@
 "BUTTON_TITLE_CANCEL" = "Avbryt";
 "BUTTON_TITLE_BACK" = "Ändra";
 "BUTTON_TITLE_DONE" = "Färdig";
+"BUTTON_TITLE_CONFIRM" = "Bekräfta";
 
 /// Text field label names
 "FIELD_LABEL_CARD_HOLDER_NAME" = "Kortinnehavarens namn";
@@ -132,8 +141,16 @@
 "ACCESSIBILITY_CANCEL_CHECKOUT" = "Avbryt kassan";
 "ACCESSIBILITY_PAY_WITH_STORED_PAYMENT_METHOD" = "Betala med lagrad betalningsmetod";
 "ACCESSIBILITY_PAY_WITH" = "Betala med";
+"ACCESSIBILITY_INSTALLMENT_PLAN" = "Avbetalningsplan";
+"ACCESSIBILITY_INSTALLMENT_ENABLED_BY_VISA" = "Avbetalning möjlig via Visa";
 
 /// Card Scanning
 "ALERT_TITLE_CARD_SCANNING_FAILED" = "Kortskanning misslyckades";
 "LABEL_CARD_SCAN_HOLD_HERE" = "Håll kortet här.\och det kommer att skannas automatiskt";
 "BUTTON_TITLE_OK" = "OK";
+
+/// PayTo Payment Method
+"FIELD_LABEL_BSB_CODE" = "BSB";
+"FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
+"FIELD_ERROR_BSB_CODE_INVALID" = "Ogiltig BSB";
+"LABEL_PAYTO_SELECT_PAYID" = "Välj PayID från följande alternativ:";

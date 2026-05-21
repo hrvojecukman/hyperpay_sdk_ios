@@ -7,5 +7,4 @@ framework module OPPWAMobile {
 
 module OPPWAMobile.Swift {
   header "OPPWAMobile-Swift.h"
-  requires objc
 }

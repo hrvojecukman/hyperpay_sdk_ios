@@ -18,6 +18,14 @@
 "LABEL_SWEDISH" = "스웨덴어";
 "LABEL_FINNISH" = "핀란드어";
 "LABEL_STC_PAY_SELECT_PAYMENT_METHOD" = "희망하는 결제 방법을 선택하세요.";
+"LABEL_FULL_AMOUNT" = "전체 금액";
+"LABEL_PROCESSING_FEE" = "처리 수수료:";
+"LABEL_MONTHLY_RATE" = "월별 요금:";
+"LABEL_WEEKLY_RATE" = "주간 요금:";
+"LABEL_MONTHS" = "개월";
+"LABEL_WEEKS" = "주";
+"LABEL_MONTH" = "월";
+"LABEL_WEEK" = "주";
 
 /// Messages
 "MESSAGE_PLEASE_WAIT" = "잠시 기다려 주세요.";
@@ -32,6 +40,7 @@
 "BUTTON_TITLE_CANCEL" = "취소";
 "BUTTON_TITLE_BACK" = "수정";
 "BUTTON_TITLE_DONE" = "완료";
+"BUTTON_TITLE_CONFIRM" = "확인하다";
 
 /// Text field label names
 "FIELD_LABEL_CARD_HOLDER_NAME" = "카드 소지자 이름";
@@ -126,8 +135,16 @@
 "ACCESSIBILITY_CANCEL_CHECKOUT" = "체크아웃 취소";
 "ACCESSIBILITY_PAY_WITH_STORED_PAYMENT_METHOD" = "저장된 결제 수단으로 결제";
 "ACCESSIBILITY_PAY_WITH" = "지불";
+"ACCESSIBILITY_INSTALLMENT_PLAN" = "할부 플랜";
+"ACCESSIBILITY_INSTALLMENT_ENABLED_BY_VISA" = "비자로 가능한 할부";
 
 /// Card Scanning
 "ALERT_TITLE_CARD_SCANNING_FAILED" = "카드 스캔 실패";
 "LABEL_CARD_SCAN_HOLD_HERE" = "여기 카드를 들고 있으면 자동으로 스캔됩니다.";
 "BUTTON_TITLE_OK" = "좋아요";
+
+/// PayTo Payment Method
+"FIELD_LABEL_BSB_CODE" = "BSB";
+"FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
+"FIELD_ERROR_BSB_CODE_INVALID" = "잘못된 BSB";
+"LABEL_PAYTO_SELECT_PAYID" = "다음 옵션에서 PayID를 선택하세요:";

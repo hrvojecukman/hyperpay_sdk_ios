@@ -1,4 +1,4 @@
-//  © Copyright ACI Worldwide, Inc. 2018, 2025
+//  © Copyright ACI Worldwide, Inc. 2018, 2026
 
 #import <Foundation/Foundation.h>
 
@@ -58,12 +58,6 @@ typedef NS_ENUM(NSInteger, OPPErrorCode) {
     /// Unable to submit Apple pay recurring request
     OPPErrorCodeApplePayRecurringRequestSubmitionFailed = 1153,
 
-    /// The phone number is not valid.
-    OPPErrorCodePhoneNumberInvalid = 1160,
-    /// The country code is not valid.
-    OPPErrorCodeCountryCodeInvalid = 1161,
-    /// The email is not valid.
-    OPPErrorCodeEmailInvalid = 1162,
     /// The national identifier is not valid.
     OPPErrorCodeNationalIdentifierInvalid = 1163,
     
@@ -134,6 +128,27 @@ typedef NS_ENUM(NSInteger, OPPErrorCode) {
     /// MobilePay Link specific error.
     OPPErrorCodeMobilePayLink = 5010,
 
+    /// Visa Installments Failed error.
+    OPPErrorCodeVisaInstallmentsFailed = 5011,
+
+    ///  Payment Polling Params error.
+    OPPErrorCodePollingParamsInvalid = 5012,
+
+    /// PayTo Transaction Failed.
+    OPPErrorCodePayToTransactionFailed = 5013,
+
+    /// PayTo Transaction TimeOut
+    OPPErrorCodePayToTransactionTimeOut = 5014,
+
+    /// Invalid PayTo Payment Params
+    OPPErrorCodeInvalidPayToPaymentParams = 5015,
+    
+    /// Invalid Identification Payment Params
+    OPPErrorCodeInvalidIdentificationPaymentParams = 5016,
+
+    /// Paze Transaction failed
+    OPPErrorCodePazeTransactionFailed = 5016,
+
     /// 3-D Secure 2 transaction error.
     OPPErrorCodeThreeDS2Failure = 6000,
     
@@ -172,7 +187,7 @@ typedef NS_ENUM(NSInteger, OPPErrorCode) {
  `OPPErrorTransactionFailureDetailsKey`
  The corresponding value is an `NSDictionary` containing the detail transaction failure information.
  
- ##Error codes
+ ## Error codes
  Below you can find all currently supported error codes. See also separate page with `OPPErrorCode` enum definition.
  ###Payment params errors:
  - 1000: Unsupported transaction payment params.
