@@ -155,3 +155,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Ongeldige BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Selecteer de PayID uit de volgende opties:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Bij het aantikken van deze knop wordt een schuifpaneel geopend om het betalings-ID te selecteren";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Selecteer het type identificatiedocument uit de volgende opties:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Identiteitskaartnummer";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Paspoortnummer";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Belastingaangiftenummer";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Identiteitskaartnummer";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Paspoortnummer";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Belastingaangiftenummer";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Ongeldig identiteitskaartnummer";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Ongeldig paspoortnummer";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Ongeldig belastingaangiftenummer";
+"FIELD_LABEL_IDCARD" = "Identiteitskaart";
+"FIELD_LABEL_PASSPORT" = "Paspoort";
+"FIELD_LABEL_TAXSTATEMENT" = "Belastingaangifte";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Bij het aantikken van deze knop wordt een schuifpaneel geopend om het documenttype te selecteren";

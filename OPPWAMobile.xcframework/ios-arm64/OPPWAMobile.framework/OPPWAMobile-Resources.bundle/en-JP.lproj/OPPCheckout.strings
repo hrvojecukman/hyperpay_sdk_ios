@@ -125,3 +125,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "無効なBSB";
 "LABEL_PAYTO_SELECT_PAYID" = "次のオプションからPayIDを選択してください:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "このボタンをタップすると、支払いIDを選択するためのスライドシートが開きます";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "以下の選択肢から本人確認書類の種類を選択してください：";
+"FIELD_LABEL_IDCARD_NUMBER" = "身分証明書番号";
+"FIELD_LABEL_PASSPORT_NUMBER" = "パスポート番号";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "納税証明書番号";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "身分証明書番号";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "パスポート番号";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "納税証明書番号";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "身分証明書番号が無効です";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "パスポート番号が無効です";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "納税証明書番号が無効です";
+"FIELD_LABEL_IDCARD" = "身分証明書";
+"FIELD_LABEL_PASSPORT" = "パスポート";
+"FIELD_LABEL_TAXSTATEMENT" = "税務申告書";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "このボタンをタップすると、書類の種類を選択するためのスライドシートが開きます";

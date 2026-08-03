@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = 'hyperpay_sdk_ios'
-  s.version          = '7.8.1'
-  s.summary          = 'HyperPay OPPWA Mobile SDK v7.8.1 XCFrameworks for iOS.'
+  s.version          = '7.11.0'
+  s.summary          = 'HyperPay OPPWA Mobile SDK v7.11.0 XCFrameworks for iOS.'
   s.description      = <<-DESC
-Vendored XCFrameworks for the HyperPay (OPPWA) Mobile SDK v7.8.1.
+Vendored XCFrameworks for the HyperPay (OPPWA) Mobile SDK v7.11.0.
 Includes OPPWAMobile and ipworks3ds_sdk (3DS2) frameworks.
                        DESC
   s.homepage         = 'https://github.com/hrvojecukman/hyperpay_sdk_ios'

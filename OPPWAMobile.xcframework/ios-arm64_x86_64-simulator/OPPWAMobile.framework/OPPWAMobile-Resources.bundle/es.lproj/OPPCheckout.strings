@@ -143,3 +143,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "BSB no válido";
 "LABEL_PAYTO_SELECT_PAYID" = "Seleccione el PayID de las siguientes opciones:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Al tocar este botón, se abrirá una hoja deslizante para seleccionar el identificador de pago";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Seleccione el tipo de documento de identificación de las siguientes opciones:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Número de documento de identidad";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Número de pasaporte";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Número de declaración de impuestos";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Número de documento de identidad";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Número de pasaporte";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Número de declaración de impuestos";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Número de documento de identidad no válido";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Número de pasaporte no válido";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Número de declaración de impuestos no válido";
+"FIELD_LABEL_IDCARD" = "Documento de identidad";
+"FIELD_LABEL_PASSPORT" = "Pasaporte";
+"FIELD_LABEL_TAXSTATEMENT" = "Declaración de impuestos";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Al tocar este botón, se abrirá una hoja deslizante para seleccionar el tipo de documento";

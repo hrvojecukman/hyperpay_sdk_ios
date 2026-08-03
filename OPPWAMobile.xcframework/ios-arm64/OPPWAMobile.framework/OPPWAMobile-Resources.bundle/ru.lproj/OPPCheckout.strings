@@ -138,3 +138,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Недействительный BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Пожалуйста, выберите PayID из следующих вариантов:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "При нажатии этой кнопки откроется выдвижная панель для выбора идентификатора платежа";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Пожалуйста, выберите тип документа, удостоверяющего личность, из следующих вариантов:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Номер удостоверения личности";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Номер паспорта";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Номер налоговой декларации";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Номер удостоверения личности";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Номер паспорта";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Номер налоговой декларации";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Недействительный номер удостоверения личности";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Недействительный номер паспорта";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Недействительный номер налоговой декларации";
+"FIELD_LABEL_IDCARD" = "Удостоверение личности";
+"FIELD_LABEL_PASSPORT" = "Паспорт";
+"FIELD_LABEL_TAXSTATEMENT" = "Налоговая декларация";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "При нажатии этой кнопки откроется выдвижная панель для выбора типа документа";

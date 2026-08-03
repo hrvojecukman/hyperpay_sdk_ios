@@ -152,3 +152,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Neplatný BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Vyberte PayID z nasledujúcich možností:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Po klepnutí na toto tlačidlo sa otvorí posuvný panel na výber identifikátora platby";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Vyberte typ identifikačného dokladu z nasledujúcich možností:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Číslo občianskeho preukazu";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Číslo pasu";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Číslo daňového priznania";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Číslo občianskeho preukazu";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Číslo pasu";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Číslo daňového priznania";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Neplatné číslo občianskeho preukazu";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Neplatné číslo pasu";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Neplatné číslo daňového priznania";
+"FIELD_LABEL_IDCARD" = "Občiansky preukaz";
+"FIELD_LABEL_PASSPORT" = "Cestovný pas";
+"FIELD_LABEL_TAXSTATEMENT" = "Daňové priznanie";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Po klepnutí na toto tlačidlo sa otvorí posuvný panel na výber typu dokumentu";

@@ -142,3 +142,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "BSB baliogabea";
 "LABEL_PAYTO_SELECT_PAYID" = "Aukeratu PayID hurrengo aukeren artean:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Botoi hau sakatzean, irristatzeko panel bat irekiko da ordainketa‑IDa hautatzeko";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Mesedez, hautatu identifikazio-dokumentu mota aukera hauetatik:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Nortasun agiriaren zenbakia";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Pasaportearen zenbakia";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Zerga-adierazpenaren zenbakia";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Nortasun agiriaren zenbakia";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Pasaportearen zenbakia";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Zerga-adierazpenaren zenbakia";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Nortasun agiriaren zenbaki baliogabea";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Pasaportearen zenbaki baliogabea";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Zerga-adierazpenaren zenbaki baliogabea";
+"FIELD_LABEL_IDCARD" = "Nortasun agiria";
+"FIELD_LABEL_PASSPORT" = "Pasaportea";
+"FIELD_LABEL_TAXSTATEMENT" = "Zerga‑aitorpena";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Botoi hau sakatzean, irristatzeko panel bat irekiko da dokumentu mota hautatzeko";

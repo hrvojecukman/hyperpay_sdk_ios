@@ -187,6 +187,7 @@
 "PAYMENT_METHOD_TYPE_PAYTO" = "PayTo";
 "PAYMENT_METHOD_TYPE_OXXO_VA" = "Oxxo";
 "PAYMENT_METHOD_TYPE_PIX_VA" = "Pix";
+"PAYMENT_METHOD_TYPE_PAZE" = "Paze";
 
 /// Accessibility
 "ACCESSIBILITY_SCAN_CARD" = "Scan a card";
@@ -206,18 +207,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Invalid BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Please select the payid from the following options:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "On tap of this button a slider sheet will open to select the pay id";
 
 /// Identification Payment Method
 "LABEL_SELECT_DOCTYPE" = "Please select the identification document type from the following options:";
-
 "FIELD_LABEL_IDCARD_NUMBER" = "Id Card Number";
 "FIELD_LABEL_PASSPORT_NUMBER" = "Passport Number";
 "FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Tax Statement Number";
-
 "FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Id Card Number";
 "FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Passport Number";
 "FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Tax Statement Number";
-
 "FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Invalid id card number";
 "FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Invalid passport number";
 "FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Invalid tax statement number";
+"FIELD_LABEL_IDCARD" = "Id Card";
+"FIELD_LABEL_PASSPORT" = "Passport";
+"FIELD_LABEL_TAXSTATEMENT" = "Tax Statement";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "On tap of this button a slider sheet will open to select the document type";

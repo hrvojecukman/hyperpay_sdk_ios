@@ -140,3 +140,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "BSB no vàlid";
 "LABEL_PAYTO_SELECT_PAYID" = "Seleccioneu el PayID de les opcions següents:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "En tocar aquest botó s’obrirà un panell lliscant per seleccionar l’identificador de pagament";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Seleccioneu el tipus de document d'identificació entre les opcions següents:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Número del document d'identitat";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Número de passaport";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Número de declaració d'impostos";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Número del document d'identitat";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Número de passaport";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Número de declaració d'impostos";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Número del document d'identitat no vàlid";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Número de passaport no vàlid";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Número de declaració d'impostos no vàlid";
+"FIELD_LABEL_IDCARD" = "Document d'identitat";
+"FIELD_LABEL_PASSPORT" = "Passaport";
+"FIELD_LABEL_TAXSTATEMENT" = "Declaració d'impostos";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "En tocar aquest botó s’obrirà un panell lliscant per seleccionar el tipus de document";

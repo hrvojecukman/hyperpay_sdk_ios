@@ -152,3 +152,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Neveljaven BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Izberite PayID med naslednjimi možnostmi:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Ob dotiku tega gumba se odpre drsni list za izbiro plačilnega ID-ja";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Prosimo, izberite vrsto identifikacijskega dokumenta iz naslednjih možnosti:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Številka osebne izkaznice";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Številka potnega lista";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Številka davčne napovedi";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Številka osebne izkaznice";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Številka potnega lista";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Številka davčne napovedi";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Neveljavna številka osebne izkaznice";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Neveljavna številka potnega lista";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Neveljavna številka davčne napovedi";
+"FIELD_LABEL_IDCARD" = "Osebna izkaznica";
+"FIELD_LABEL_PASSPORT" = "Potni list";
+"FIELD_LABEL_TAXSTATEMENT" = "Davčna napoved";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Ob dotiku tega gumba se odpre drsni list za izbiro vrste dokumenta";

@@ -143,11 +143,17 @@ typedef NS_ENUM(NSInteger, OPPErrorCode) {
     /// Invalid PayTo Payment Params
     OPPErrorCodeInvalidPayToPaymentParams = 5015,
     
-    /// Invalid Identification Payment Params
-    OPPErrorCodeInvalidIdentificationPaymentParams = 5016,
-
     /// Paze Transaction failed
     OPPErrorCodePazeTransactionFailed = 5016,
+    
+    /// Braintree payments specific error
+    OPPErrorCodeBraintree = 5017,
+    
+    /// Invalid Identification Payment Params
+    OPPErrorCodeInvalidIdentificationPaymentParams = 5018,
+
+    /// PayPal Error
+    OPPErrorCodePayPal = 5019,
 
     /// 3-D Secure 2 transaction error.
     OPPErrorCodeThreeDS2Failure = 6000,
@@ -162,7 +168,13 @@ typedef NS_ENUM(NSInteger, OPPErrorCode) {
     OPPErrorCodeCopyAndPayGeneralError = 8000,
     
     /// Custom components validation general errror.
-    OPPErrorCodeCustomComponentGeneralError = 9000
+    OPPErrorCodeCustomComponentGeneralError = 9000,
+
+    /// Generic cancel error
+    OPPErrorCodeGeneralCancelError = 9001,
+
+    /// General failed error
+    OPPErrorCodeGeneralFailedError = 9002
 };
 
 /**

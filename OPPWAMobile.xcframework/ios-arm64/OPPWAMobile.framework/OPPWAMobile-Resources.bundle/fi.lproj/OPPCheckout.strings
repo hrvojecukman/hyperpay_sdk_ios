@@ -159,3 +159,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Virheellinen BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Valitse PayID seuraavista vaihtoehdoista:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Kun tätä painiketta napautetaan, avautuu liukupaneeli maksutunnuksen valitsemista varten";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Valitse henkilöllisyystodistuksen tyyppi seuraavista vaihtoehdoista:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Henkilökortin numero";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Passin numero";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Veroilmoituksen numero";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Henkilökortin numero";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Passin numero";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Veroilmoituksen numero";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Virheellinen henkilökortin numero";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Virheellinen passin numero";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Virheellinen veroilmoituksen numero";
+"FIELD_LABEL_IDCARD" = "Henkilökortti";
+"FIELD_LABEL_PASSPORT" = "Passi";
+"FIELD_LABEL_TAXSTATEMENT" = "Veroilmoitus";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Kun tätä painiketta napautetaan, avautuu liukupaneeli asiakirjatyypin valitsemista varten";

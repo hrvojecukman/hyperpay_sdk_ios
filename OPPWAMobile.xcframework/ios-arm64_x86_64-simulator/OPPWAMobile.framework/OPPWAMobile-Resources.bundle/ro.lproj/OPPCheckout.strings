@@ -152,3 +152,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "BSB invalid";
 "LABEL_PAYTO_SELECT_PAYID" = "Selectați PayID din următoarele opțiuni:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "La atingerea acestui buton se va deschide un panou glisant pentru selectarea ID‑ului de plată";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Selectați tipul de document de identificare din următoarele opțiuni:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Numărul actului de identitate";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Numărul pașaportului";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Numărul declarației fiscale";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Numărul actului de identitate";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Numărul pașaportului";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Numărul declarației fiscale";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Număr de act de identitate invalid";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Număr de pașaport invalid";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Număr de declarație fiscală invalid";
+"FIELD_LABEL_IDCARD" = "Carte de identitate";
+"FIELD_LABEL_PASSPORT" = "Pașaport";
+"FIELD_LABEL_TAXSTATEMENT" = "Declarație fiscală";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "La atingerea acestui buton se va deschide un panou glisant pentru selectarea tipului de document";

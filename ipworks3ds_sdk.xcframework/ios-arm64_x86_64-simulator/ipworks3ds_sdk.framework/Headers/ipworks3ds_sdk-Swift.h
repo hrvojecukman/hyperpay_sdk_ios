@@ -309,13 +309,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-SWIFT_CLASS("_TtC14ipworks3ds_sdk14AcceptContains")
-@interface AcceptContains : NSObject
-+ (void)widthOfStringDeviceInfo;
-+ (void)autofillTypeCerts;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
 @class NSString;
 SWIFT_CLASS("_TtC14ipworks3ds_sdk31AuthenticationRequestParameters")
 @interface AuthenticationRequestParameters : NSObject
@@ -397,6 +390,7 @@ SWIFT_PROTOCOL("_TtP14ipworks3ds_sdk23ChallengeStatusReceiver_")
 @end
 
 @class NSData;
+@class NSMutableString;
 SWIFT_PROTOCOL("_TtP14ipworks3ds_sdk19ClientEventListener_")
 @protocol ClientEventListener
 - (void)onDataPacketIn:(NSData * _Nonnull)dataPacket;
@@ -405,6 +399,7 @@ SWIFT_PROTOCOL("_TtP14ipworks3ds_sdk19ClientEventListener_")
 - (void)onLog:(int32_t)logLevel :(NSString * _Nonnull)message :(NSString * _Nonnull)logType;
 - (void)onSSLServerAuthentication:(NSData * _Nonnull)certEncoded :(NSString * _Nonnull)certSubject :(NSString * _Nonnull)certIssuer :(NSString * _Nonnull)status :(int32_t * _Nonnull)accept;
 - (void)onSSLStatus:(NSString * _Nonnull)message;
+- (void)onAIARequest:(NSString * _Nonnull)certEncoded :(NSString * _Nonnull)aiaurl :(int32_t * _Nonnull)download :(NSMutableString * _Nonnull)aiaCert;
 @end
 
 SWIFT_CLASS("_TtC14ipworks3ds_sdk15CompletionEvent")
@@ -443,17 +438,6 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk19DirectoryServerInfo")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-SWIFT_CLASS("_TtC14ipworks3ds_sdk21DispatchQueueSDKAppId")
-@interface DispatchQueueSDKAppId : NSObject <GetValueAsBooleanDispatchQoS>
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (void)descriptionVmsize:(NSData * _Null_unspecified)dataPacket;
-- (void)cFBundleVersionGetErrorDetails:(NSData * _Null_unspecified)dataPacket;
-- (void)urlSchemeCurrent:(int32_t)errorCode :(NSString * _Null_unspecified)description;
-- (void)secCertificateCreateWithDataChallengeEntryBoxTwoAutofill:(int32_t)logLevel :(NSString * _Null_unspecified)message :(NSString * _Null_unspecified)logType;
-- (void)headingTextFontSizeCheckTamperedByMobileProvisionHash:(NSData * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)certSubject :(NSString * _Null_unspecified)certIssuer :(NSString * _Null_unspecified)status :(int32_t * _Nonnull)accept;
-- (void)challengeEntryBoxTwoAutofillUIEdgeInsets:(NSString * _Null_unspecified)message;
-@end
-
 SWIFT_CLASS("_TtC14ipworks3ds_sdk12ErrorMessage")
 @interface ErrorMessage : NSObject
 - (NSString * _Nonnull)getTransactionID SWIFT_WARN_UNUSED_RESULT;
@@ -462,6 +446,18 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk12ErrorMessage")
 - (NSString * _Nonnull)getErrorDetails SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+SWIFT_CLASS("_TtC14ipworks3ds_sdk20FloorIsRuntimeHooked")
+@interface FloorIsRuntimeHooked : NSObject <ImmloIndirectsymoff>
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (void)setInformationZoneIconPositionIsLandscape:(NSData * _Null_unspecified)dataPacket;
+- (void)oOBAppURLIndicatorDarwin:(NSData * _Null_unspecified)dataPacket;
+- (void)layoutSubviewsEnableChallengeInfoTextIndicator:(int32_t)errorCode :(NSString * _Null_unspecified)description;
+- (void)logErrorUIImageView:(int32_t)logLevel :(NSString * _Null_unspecified)message :(NSString * _Null_unspecified)logType;
+- (void)availableLocaleIdentifiersRandom:(NSData * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)certSubject :(NSString * _Null_unspecified)certIssuer :(NSString * _Null_unspecified)status :(int32_t * _Nonnull)accept;
+- (void)wHITELISTCachedImage:(NSString * _Null_unspecified)message;
+- (void)headerAnimated:(NSString * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)aiaurl :(int32_t * _Nonnull)download :(NSString * _Nullable * _Nonnull)aiaCert;
 @end
 
 enum LabelType : NSInteger;
@@ -651,6 +647,13 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk11Transaction")
 - (BOOL)closeAndReturnError:(NSError * _Nullable * _Nullable)error;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+SWIFT_CLASS("_TtC14ipworks3ds_sdk30UIBarButtonItemTargetImageName")
+@interface UIBarButtonItemTargetImageName : NSObject
++ (void)isStaticMethodMaxTimeInterval;
++ (void)nSCoderWhitelistingDataEntry;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 SWIFT_CLASS("_TtC14ipworks3ds_sdk15UiCustomization")
@@ -1001,13 +1004,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-SWIFT_CLASS("_TtC14ipworks3ds_sdk14AcceptContains")
-@interface AcceptContains : NSObject
-+ (void)widthOfStringDeviceInfo;
-+ (void)autofillTypeCerts;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
 @class NSString;
 SWIFT_CLASS("_TtC14ipworks3ds_sdk31AuthenticationRequestParameters")
 @interface AuthenticationRequestParameters : NSObject
@@ -1089,6 +1085,7 @@ SWIFT_PROTOCOL("_TtP14ipworks3ds_sdk23ChallengeStatusReceiver_")
 @end
 
 @class NSData;
+@class NSMutableString;
 SWIFT_PROTOCOL("_TtP14ipworks3ds_sdk19ClientEventListener_")
 @protocol ClientEventListener
 - (void)onDataPacketIn:(NSData * _Nonnull)dataPacket;
@@ -1097,6 +1094,7 @@ SWIFT_PROTOCOL("_TtP14ipworks3ds_sdk19ClientEventListener_")
 - (void)onLog:(int32_t)logLevel :(NSString * _Nonnull)message :(NSString * _Nonnull)logType;
 - (void)onSSLServerAuthentication:(NSData * _Nonnull)certEncoded :(NSString * _Nonnull)certSubject :(NSString * _Nonnull)certIssuer :(NSString * _Nonnull)status :(int32_t * _Nonnull)accept;
 - (void)onSSLStatus:(NSString * _Nonnull)message;
+- (void)onAIARequest:(NSString * _Nonnull)certEncoded :(NSString * _Nonnull)aiaurl :(int32_t * _Nonnull)download :(NSMutableString * _Nonnull)aiaCert;
 @end
 
 SWIFT_CLASS("_TtC14ipworks3ds_sdk15CompletionEvent")
@@ -1135,17 +1133,6 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk19DirectoryServerInfo")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-SWIFT_CLASS("_TtC14ipworks3ds_sdk21DispatchQueueSDKAppId")
-@interface DispatchQueueSDKAppId : NSObject <GetValueAsBooleanDispatchQoS>
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (void)descriptionVmsize:(NSData * _Null_unspecified)dataPacket;
-- (void)cFBundleVersionGetErrorDetails:(NSData * _Null_unspecified)dataPacket;
-- (void)urlSchemeCurrent:(int32_t)errorCode :(NSString * _Null_unspecified)description;
-- (void)secCertificateCreateWithDataChallengeEntryBoxTwoAutofill:(int32_t)logLevel :(NSString * _Null_unspecified)message :(NSString * _Null_unspecified)logType;
-- (void)headingTextFontSizeCheckTamperedByMobileProvisionHash:(NSData * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)certSubject :(NSString * _Null_unspecified)certIssuer :(NSString * _Null_unspecified)status :(int32_t * _Nonnull)accept;
-- (void)challengeEntryBoxTwoAutofillUIEdgeInsets:(NSString * _Null_unspecified)message;
-@end
-
 SWIFT_CLASS("_TtC14ipworks3ds_sdk12ErrorMessage")
 @interface ErrorMessage : NSObject
 - (NSString * _Nonnull)getTransactionID SWIFT_WARN_UNUSED_RESULT;
@@ -1154,6 +1141,18 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk12ErrorMessage")
 - (NSString * _Nonnull)getErrorDetails SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+SWIFT_CLASS("_TtC14ipworks3ds_sdk20FloorIsRuntimeHooked")
+@interface FloorIsRuntimeHooked : NSObject <ImmloIndirectsymoff>
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (void)setInformationZoneIconPositionIsLandscape:(NSData * _Null_unspecified)dataPacket;
+- (void)oOBAppURLIndicatorDarwin:(NSData * _Null_unspecified)dataPacket;
+- (void)layoutSubviewsEnableChallengeInfoTextIndicator:(int32_t)errorCode :(NSString * _Null_unspecified)description;
+- (void)logErrorUIImageView:(int32_t)logLevel :(NSString * _Null_unspecified)message :(NSString * _Null_unspecified)logType;
+- (void)availableLocaleIdentifiersRandom:(NSData * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)certSubject :(NSString * _Null_unspecified)certIssuer :(NSString * _Null_unspecified)status :(int32_t * _Nonnull)accept;
+- (void)wHITELISTCachedImage:(NSString * _Null_unspecified)message;
+- (void)headerAnimated:(NSString * _Null_unspecified)certEncoded :(NSString * _Null_unspecified)aiaurl :(int32_t * _Nonnull)download :(NSString * _Nullable * _Nonnull)aiaCert;
 @end
 
 enum LabelType : NSInteger;
@@ -1343,6 +1342,13 @@ SWIFT_CLASS("_TtC14ipworks3ds_sdk11Transaction")
 - (BOOL)closeAndReturnError:(NSError * _Nullable * _Nullable)error;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+SWIFT_CLASS("_TtC14ipworks3ds_sdk30UIBarButtonItemTargetImageName")
+@interface UIBarButtonItemTargetImageName : NSObject
++ (void)isStaticMethodMaxTimeInterval;
++ (void)nSCoderWhitelistingDataEntry;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 SWIFT_CLASS("_TtC14ipworks3ds_sdk15UiCustomization")

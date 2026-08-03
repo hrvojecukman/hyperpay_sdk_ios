@@ -10,19 +10,19 @@
 		</data>
 		<key>Headers/ipworks3ds_sdk-Swift.h</key>
 		<data>
-		yqXA+nUnR9IlXNn5PeR6ChhJ9/w=
+		wLei6JKLt5G/xLYT/nfvoHScut8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		F+RN2ajhPSy6Ba8bl/S0DaOGy94=
+		oF4+9+Gr3o1une4n8okNgunq2eE=
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		wee4mnbouA3n9240aVnGJVnCNaM=
+		u19hQPmr7uOCDxrIoEMtJvJwz2A=
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HqW4YAeT5jNPd5AX8ollLTVJ2s8=
+		+rD9c1rpx1zgfF074Cajac9JdzQ=
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HqW4YAeT5jNPd5AX8ollLTVJ2s8=
+		+rD9c1rpx1zgfF074Cajac9JdzQ=
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v+9SQQD8TzALFWLVjt+v+RdZ60I=
+		86xU7FdNQzI63ef+L7uDXaK+M9s=
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		wee4mnbouA3n9240aVnGJVnCNaM=
+		u19hQPmr7uOCDxrIoEMtJvJwz2A=
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ivbMNrqUMY740bmcnYs3JvDgcnI=
+		qgwFB4I5pe9Tkce1yrdffbHpCLY=
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ivbMNrqUMY740bmcnYs3JvDgcnI=
+		qgwFB4I5pe9Tkce1yrdffbHpCLY=
 		</data>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		C4l/440lG/RSiGHxu650dBFUHE8=
+		w6dYVsWkwx5hjYkd3b2I8HPVl18=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,19 +66,19 @@
 		</data>
 		<key>PrivateHeaders/IPWorks3DSClient.h</key>
 		<data>
-		hW+weKNLX6Qtz6Mj90JtdR7MvMQ=
+		ztaGgk+nQWsDd1sHQb3id8DBrCE=
 		</data>
 		<key>PrivateHeaders/ipworks3ds_sdk.h</key>
 		<data>
-		w9EmiH5fak+ySiuwezBWf6ndTOY=
+		OD7Fhs8XyN1+rUqYnSiHh6n26U8=
 		</data>
 		<key>nsoftwareAppChallengeController.nib/objects-11.0+.nib</key>
 		<data>
-		ZYcddk8490OEk8Le7H5RFlGIBhc=
+		FcPrTXVhsumDbPVy1Xc/asgKISg=
 		</data>
 		<key>nsoftwareAppChallengeController.nib/runtime.nib</key>
 		<data>
-		Sc/ZmFB/demKmZhEQ66zcIF63CE=
+		JU/r/DlLoqLzZEF1HjN4wsoNUhg=
 		</data>
 		<key>nsoftwareWebChallengeController.nib</key>
 		<data>
@@ -102,33 +102,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yqXA+nUnR9IlXNn5PeR6ChhJ9/w=
+			wLei6JKLt5G/xLYT/nfvoHScut8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XkmXtQTGYt0TT3O4Qa8JLT6FRXbnPpBUL7S6Kmp7p9E=
+			tx2CgWM9/yeFgy52NaAs5ilrMGaIZ+UDbUfZXTAfxzk=
 			</data>
 		</dict>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wee4mnbouA3n9240aVnGJVnCNaM=
+			u19hQPmr7uOCDxrIoEMtJvJwz2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			4sjIslsbiklX9iSgTFfwdV5pPplNfFtfTAhGcdCxVpo=
+			xou6+w1zFe6yMp0YEf1BEqIqRjIaUZoeyPNKttKn8gg=
 			</data>
 		</dict>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HqW4YAeT5jNPd5AX8ollLTVJ2s8=
+			+rD9c1rpx1zgfF074Cajac9JdzQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			sM4NhJYHbLpCIvLkG543Y0LIWqB+G7Uav994Uwrc2Jo=
+			hKB/yS29YmXxbszuBI3njzurqLm2O4cg+8UY6AxSCdk=
 			</data>
 		</dict>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -146,44 +146,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HqW4YAeT5jNPd5AX8ollLTVJ2s8=
+			+rD9c1rpx1zgfF074Cajac9JdzQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			sM4NhJYHbLpCIvLkG543Y0LIWqB+G7Uav994Uwrc2Jo=
+			hKB/yS29YmXxbszuBI3njzurqLm2O4cg+8UY6AxSCdk=
 			</data>
 		</dict>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v+9SQQD8TzALFWLVjt+v+RdZ60I=
+			86xU7FdNQzI63ef+L7uDXaK+M9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cqa0p9N+dceugLg6IdluW71nPGOWuOy8oHSYWEkUC4U=
+			OLdRCn9bBMG9qlQhza7NwweNziIyuC5xhjqZAqCFlAU=
 			</data>
 		</dict>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wee4mnbouA3n9240aVnGJVnCNaM=
+			u19hQPmr7uOCDxrIoEMtJvJwz2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			4sjIslsbiklX9iSgTFfwdV5pPplNfFtfTAhGcdCxVpo=
+			xou6+w1zFe6yMp0YEf1BEqIqRjIaUZoeyPNKttKn8gg=
 			</data>
 		</dict>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ivbMNrqUMY740bmcnYs3JvDgcnI=
+			qgwFB4I5pe9Tkce1yrdffbHpCLY=
 			</data>
 			<key>hash2</key>
 			<data>
-			SXn5KwxmhzH60TI5MfYcaPZz/aoLn2aJ748oxDuSI04=
+			qrNXbbooCZ1kxE4NKbuWR4WNeIP4orf7jXcTxIBuzNM=
 			</data>
 		</dict>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -201,22 +201,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ivbMNrqUMY740bmcnYs3JvDgcnI=
+			qgwFB4I5pe9Tkce1yrdffbHpCLY=
 			</data>
 			<key>hash2</key>
 			<data>
-			SXn5KwxmhzH60TI5MfYcaPZz/aoLn2aJ748oxDuSI04=
+			qrNXbbooCZ1kxE4NKbuWR4WNeIP4orf7jXcTxIBuzNM=
 			</data>
 		</dict>
 		<key>Modules/ipworks3ds_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C4l/440lG/RSiGHxu650dBFUHE8=
+			w6dYVsWkwx5hjYkd3b2I8HPVl18=
 			</data>
 			<key>hash2</key>
 			<data>
-			omwn9x5EKcrrZD291WEaAXFBG2EwQ/H8tdAIgfyan2I=
+			pIzeOmNoRn461m7kat0HuYM7M86Quib79wTdA7ESu6E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -245,44 +245,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hW+weKNLX6Qtz6Mj90JtdR7MvMQ=
+			ztaGgk+nQWsDd1sHQb3id8DBrCE=
 			</data>
 			<key>hash2</key>
 			<data>
-			orSwYQIQtohNFEF6nSHOvfdW3yBvGXTdfZbX0UnFH4k=
+			hRRrqNEFMT2ke6w77mszeYPhyXcCdps8OTqXFSFFG+0=
 			</data>
 		</dict>
 		<key>PrivateHeaders/ipworks3ds_sdk.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w9EmiH5fak+ySiuwezBWf6ndTOY=
+			OD7Fhs8XyN1+rUqYnSiHh6n26U8=
 			</data>
 			<key>hash2</key>
 			<data>
-			LL5HmlldADEAw+v9WIJp3242LvlXwfZ8kqRU1z+q4No=
+			JN8P+SNYPKqNBKZ8yIsPv5wOZlsg9qbhhLwwFu17ElA=
 			</data>
 		</dict>
 		<key>nsoftwareAppChallengeController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZYcddk8490OEk8Le7H5RFlGIBhc=
+			FcPrTXVhsumDbPVy1Xc/asgKISg=
 			</data>
 			<key>hash2</key>
 			<data>
-			AJzvnIg7djyxysTHYI3/XIWLUDkCN/d6s3AA9L8KhVU=
+			1WCpdxohnMND83REMGRU7QTtsmOnH+VPKzvEuHbNdNI=
 			</data>
 		</dict>
 		<key>nsoftwareAppChallengeController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Sc/ZmFB/demKmZhEQ66zcIF63CE=
+			JU/r/DlLoqLzZEF1HjN4wsoNUhg=
 			</data>
 			<key>hash2</key>
 			<data>
-			4uwLYbX4fxPGQc+8MbiQte/7Gjz5kyaytvHRgi6DJKc=
+			QaQdFu4OJQ75gSw8EgQ25LLZNjoK+h9rgfkZC8R7Z+4=
 			</data>
 		</dict>
 		<key>nsoftwareWebChallengeController.nib</key>

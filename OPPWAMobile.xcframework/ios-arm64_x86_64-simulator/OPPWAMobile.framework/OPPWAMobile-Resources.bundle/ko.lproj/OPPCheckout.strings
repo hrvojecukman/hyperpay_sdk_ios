@@ -148,3 +148,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "잘못된 BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "다음 옵션에서 PayID를 선택하세요:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "이 버튼을 탭하면 결제 ID를 선택할 수 있는 슬라이드 시트가 열립니다";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "다음 옵션에서 신분증 유형을 선택하세요:";
+"FIELD_LABEL_IDCARD_NUMBER" = "신분증 번호";
+"FIELD_LABEL_PASSPORT_NUMBER" = "여권 번호";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "세금 신고서 번호";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "신분증 번호";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "여권 번호";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "세금 신고서 번호";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "신분증 번호가 유효하지 않습니다";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "여권 번호가 유효하지 않습니다";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "세금 신고서 번호가 유효하지 않습니다";
+"FIELD_LABEL_IDCARD" = "신분증";
+"FIELD_LABEL_PASSPORT" = "여권";
+"FIELD_LABEL_TAXSTATEMENT" = "세금 신고서";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "이 버튼을 탭하면 문서 유형을 선택할 수 있는 슬라이드 시트가 열립니다";

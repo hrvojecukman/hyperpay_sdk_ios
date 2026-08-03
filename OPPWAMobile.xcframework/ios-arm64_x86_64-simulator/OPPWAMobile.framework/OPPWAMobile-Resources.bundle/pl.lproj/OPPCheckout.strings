@@ -158,3 +158,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Nieprawidłowy BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Wybierz PayID z poniższych opcji:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Po naciśnięciu tego przycisku otworzy się wysuwany panel do wyboru identyfikatora płatności";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Proszę wybrać typ dokumentu tożsamości z poniższych opcji:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Numer dowodu osobistego";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Numer paszportu";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Numer deklaracji podatkowej";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Numer dowodu osobistego";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Numer paszportu";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Numer deklaracji podatkowej";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Nieprawidłowy numer dowodu osobistego";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Nieprawidłowy numer paszportu";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Nieprawidłowy numer deklaracji podatkowej";
+"FIELD_LABEL_IDCARD" = "Dowód osobisty";
+"FIELD_LABEL_PASSPORT" = "Paszport";
+"FIELD_LABEL_TAXSTATEMENT" = "Zeznanie podatkowe";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Po naciśnięciu tego przycisku otworzy się wysuwany panel do wyboru typu dokumentu";

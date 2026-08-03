@@ -146,3 +146,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Nevažeći BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Molimo izaberite PayID iz sledećih opcija:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Dodirivanjem ovog dugmeta otvoriće se klizni panel za izbor identifikatora plaćanja";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Molimo izaberite vrstu identifikacionog dokumenta iz sledećih opcija:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Broj lične karte";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Broj pasoša";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Broj poreske prijave";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Broj lične karte";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Broj pasoša";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Broj poreske prijave";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Nevažeći broj lične karte";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Nevažeći broj pasoša";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Nevažeći broj poreske prijave";
+"FIELD_LABEL_IDCARD" = "Lična karta";
+"FIELD_LABEL_PASSPORT" = "Pasoš";
+"FIELD_LABEL_TAXSTATEMENT" = "Poreska prijava";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Dodirivanjem ovog dugmeta otvoriće se klizni panel za izbor vrste dokumenta";

@@ -234,6 +234,6 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)getPollingData:(nonnull OPPPollingParams *)params
      completionHandler:(void (^)(OPPPollingStatus * _Nullable response,
                                  NSError * _Nullable error))completionHandler;
-
 @end
 NS_ASSUME_NONNULL_END
+

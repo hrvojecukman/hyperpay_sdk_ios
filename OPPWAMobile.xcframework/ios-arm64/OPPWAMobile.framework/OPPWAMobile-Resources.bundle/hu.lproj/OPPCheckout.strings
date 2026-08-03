@@ -152,3 +152,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Érvénytelen BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Kérjük, válassza ki a PayID-t az alábbi lehetőségek közül:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "A gomb megérintésekor egy csúsztatható panel nyílik meg a fizetési azonosító kiválasztásához";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Kérjük, válassza ki az azonosító okmány típusát az alábbi lehetőségek közül:";
+"FIELD_LABEL_IDCARD_NUMBER" = "Személyi igazolvány száma";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Útlevélszám";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Adóbevallás száma";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "Személyi igazolvány száma";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Útlevélszám";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Adóbevallás száma";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Érvénytelen személyi igazolvány szám";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Érvénytelen útlevélszám";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Érvénytelen adóbevallás szám";
+"FIELD_LABEL_IDCARD" = "Személyi igazolvány";
+"FIELD_LABEL_PASSPORT" = "Útlevél";
+"FIELD_LABEL_TAXSTATEMENT" = "Adóbevallás";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "A gomb megérintésekor egy csúsztatható panel nyílik meg a dokumentumtípus kiválasztásához";

@@ -153,3 +153,20 @@
 "FIELD_PLACEHOLDER_BSB_CODE" = "BSB";
 "FIELD_ERROR_BSB_CODE_INVALID" = "Ugyldig BSB";
 "LABEL_PAYTO_SELECT_PAYID" = "Velg PayID fra følgende alternativer:";
+"ACCESSIBILITY_SELECT_PAYID_HINT" = "Når denne knappen trykkes, åpnes et skyvepanel for å velge betalings-ID";
+
+/// Identification Payment Method
+"LABEL_SELECT_DOCTYPE" = "Velg typen identifikasjonsdokument fra følgende alternativer:";
+"FIELD_LABEL_IDCARD_NUMBER" = "ID-kortnummer";
+"FIELD_LABEL_PASSPORT_NUMBER" = "Passnummer";
+"FIELD_LABEL_TAXSTATEMENT_NUMBER" = "Skattemeldingsnummer";
+"FIELD_PLACEHOLDER_IDCARD_NUMBER" = "ID-kortnummer";
+"FIELD_PLACEHOLDER_PASSPORT_NUMBER" = "Passnummer";
+"FIELD_PLACEHOLDER_TAXSTATEMENT_NUMBER" = "Skattemeldingsnummer";
+"FIELD_ERROR_IDCARD_NUMBER_INVALID" = "Ugyldig ID-kortnummer";
+"FIELD_ERROR_PASSPORT_NUMBER_INVALID" = "Ugyldig passnummer";
+"FIELD_ERROR_TAXSTATEMENT_NUMBER_INVALID" = "Ugyldig skattemeldingsnummer";
+"FIELD_LABEL_IDCARD" = "ID‑kort";
+"FIELD_LABEL_PASSPORT" = "Pass";
+"FIELD_LABEL_TAXSTATEMENT" = "Skattemelding";
+"ACCESSIBILITY_SELECT_DOCTYPE_HINT" = "Når denne knappen trykkes, åpnes et skyvepanel for å velge dokumenttype";

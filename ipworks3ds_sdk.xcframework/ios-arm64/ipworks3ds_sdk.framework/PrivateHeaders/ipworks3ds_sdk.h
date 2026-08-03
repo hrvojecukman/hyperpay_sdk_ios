@@ -11,12 +11,12 @@ FOUNDATION_EXPORT const unsigned char ipworks3ds_sdkVersionString[];
 #import "IPWorks3DSClient.h"
 
 
-@interface WithAlphaComponentGetErrorDescription: NSObject
+@interface AdSupportDarwin: NSObject
 
-+ (void)getParamValueOpaquePointer NS_SWIFT_NAME(getParamValueOpaquePointer());
++ (void)contentModeLeadingAnchor NS_SWIFT_NAME(contentModeLeadingAnchor());
 
-+ (void)isAppStoreReceiptSandboxSelectedIndexes: (int) flag NS_SWIFT_NAME(isAppStoreReceiptSandboxSelectedIndexes(_:));
++ (void)provisionUrlLowerBound: (int) flag NS_SWIFT_NAME(provisionUrlLowerBound(_:));
 
-+ (void)imageWidthIsOemParam NS_SWIFT_NAME(imageWidthIsOemParam());
++ (void)hexColorCodeLocalizedModel NS_SWIFT_NAME(hexColorCodeLocalizedModel());
 
 @end
